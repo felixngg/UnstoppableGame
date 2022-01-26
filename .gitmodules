@@ -1,0 +1,3 @@
+[submodule "3rd-party/PowderEngine"]
+	path = 3rd-party/PowderEngine
+	url = git@github.com:felixngg/PowderEngine.git
